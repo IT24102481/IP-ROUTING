@@ -18,7 +18,7 @@ Your v2ray clients will see a **Sri Lanka IP** instead of your VPS IP.
 ## Install
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/YOUR_USERNAME/lk-vpn/main/lk-vpn.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/IT24102481/lk-vpn/main/lk-vpn.sh)
 ```
 
 ## Requirements
